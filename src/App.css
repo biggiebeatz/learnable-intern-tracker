@@ -15,6 +15,7 @@ body{
 .app{
   width: 100%;
   padding: 4rem 3rem ;
+  display: grid;
 }
 
 .input{
@@ -35,7 +36,7 @@ body{
 .assignment{
   font-size: 1rem;
   font-weight: 400;
-  color: aquamarine;
+  color: red;
 }
 .intern-cards{
   display: grid;
